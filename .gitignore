@@ -1,0 +1,36 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.sln.docstates
+*.cache
+*.csproj.user
+*.vbproj.user
+*.vshost.*
+*.pidb
+*.log
+*.scc
+*.bak
+*.swp
+*.vspscc
+*.vssscc
+.vs/
+*.ncrunch*
+*.crunch*
+*.coverlet
+*.dotCover
+*.opencover
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# React / Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+yarn.lock
+package-lock.json
